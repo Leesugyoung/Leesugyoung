@@ -11,7 +11,7 @@ I'm Leesu and I'm trying to become a front-end developer.
 <a href="https://storm-mochi-b20.notion.site/SUGYEONG-LEE-236827820ae246e38795f9c365cfed7a" target="_blank"><img src="https://img.shields.io/badge/Portfolio-c25980?style=flat&logo=Proto.io&logoColor=white"/></a> 
 
 
-#### 📚 Tech Stack  
+#### 📚 Tech Stack 📚
 Platforms & Languages
 
 <div>
@@ -27,11 +27,18 @@ Platforms & Languages
 <img src="https://img.shields.io/badge/Recoil-050505?style=flat&logo=Relay&logoColor=white" /><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" /></div>
 
 
-#### 🛠️ Tools
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white" />
+#### 🛠️ Tools 🛠️
+<div> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
-<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat&logo=Adobe Photoshop&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe Photoshop-1648c7?style=flat&logo=Adobe Photoshop&logoColor=white" />
+<img src="https://img.shields.io/badge/Notion-ffffff?style=flat&logo=Notion&logoColor=black" /></div>
+ 
+  
+    
+    
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leesugyoung&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+
 
 
