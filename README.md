@@ -7,8 +7,7 @@
 Hi there👋   
 I'm Leesu and I'm trying to become a front-end developer.  
 
-<a href="https://velog.io/@tnrud4685" target="_blank"><img src="https://img.shields.io/badge/Blog-d66d4d?style=flat&logo=Velog&logoColor=white"/></a> 
-<a href="https://storm-mochi-b20.notion.site/SUGYEONG-LEE-236827820ae246e38795f9c365cfed7a" target="_blank"><img src="https://img.shields.io/badge/Portfolio-c25980?style=flat&logo=Proto.io&logoColor=white"/></a> 
+<a href="https://velog.io/@tnrud4685" target="_blank"><img src="https://img.shields.io/badge/Blog-c25980?style=flat&logo=Velog&logoColor=white"/></a> 
 
 
 #### 📚 Tech Stack 📚
