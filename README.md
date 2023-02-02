@@ -32,11 +32,15 @@ Platforms & Languages
 <img src="https://img.shields.io/badge/Adobe Photoshop-1648c7?style=flat&logo=Adobe Photoshop&logoColor=white" />
 <img src="https://img.shields.io/badge/Notion-ffffff?style=flat&logo=Notion&logoColor=black" /></div>
  
+#
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leesugyoung&layout=compact&theme=default)  
   
-    
-    
-<div>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leesugyoung&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)</div>
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leesugyoung&theme=default&hide=issues,prs)](https://github.com/anuraghazra/github-readme-stats)
+  
+  
 
+  
 </div>
 
 
