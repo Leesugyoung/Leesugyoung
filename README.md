@@ -8,8 +8,6 @@ Hi there👋
 I'm Leesu and I'm trying to become a front-end developer. 
 
 <a href="https://velog.io/@tnrud4685" target="_blank"><img src="https://img.shields.io/badge/Blog-c25980?style=flat&logo=Velog&logoColor=white"/></a>   
-  
-포트폴리오는 메일로만 보내드리고 있습니다!
 
 
 #### 📚 Tech Stack 📚
