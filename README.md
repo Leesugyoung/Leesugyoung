@@ -36,8 +36,8 @@ Platforms & Languages
 #
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leesugyoung&layout=compact&theme=default)  
   
-  
-
+ 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=leesu)](https://solved.ac/tnrud4685)
   
 </div>
 
