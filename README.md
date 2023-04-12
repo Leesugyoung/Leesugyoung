@@ -37,7 +37,7 @@ Platforms & Languages
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leesugyoung&layout=compact&theme=default)  
   
  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tnrud4685)](https://solved.ac/tnrud4685)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tnrud4685)](https://solved.ac/tnrud4685)
   
 </div>
 
