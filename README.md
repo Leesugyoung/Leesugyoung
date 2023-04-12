@@ -36,7 +36,6 @@ Platforms & Languages
 #
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leesugyoung&layout=compact&theme=default)  
   
-<img src="http://mazandi.herokuapp.com/api?handle={tnrud4685}&theme=dark"/>
   
 
   
