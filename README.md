@@ -37,7 +37,7 @@ Platforms & Languages
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leesugyoung&layout=compact&theme=default)  
   
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leesugyoung&theme=default&hide=issues,prs)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tnrud4685)](https://solved.ac/tnrud4685)
   
   
 
