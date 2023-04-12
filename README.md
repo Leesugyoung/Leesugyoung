@@ -39,7 +39,6 @@ Platforms & Languages
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tnrud4685)](https://solved.ac/tnrud4685)
   
-  
 
   
 </div>
