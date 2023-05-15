@@ -33,7 +33,7 @@ Platforms & Languages
 <img src="https://img.shields.io/badge/Notion-ffffff?style=flat&logo=Notion&logoColor=black" /></div>
  
 #
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leesugyoung&layout=compact&theme=default)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leesugyoung&layout=compact&theme=default)  
   
  
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tnrud4685)](https://solved.ac/tnrud4685)
