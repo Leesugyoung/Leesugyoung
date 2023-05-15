@@ -4,9 +4,8 @@
 
 
 
-Hi there👋   
-I'm Leesu and I'm trying to become a front-end developer.  
-Passion! Passion! Passion!  
+Hello 👋,   
+I am Frontend Engineer Su-kyung Lee.   
   
 <a href="https://velog.io/@tnrud4685" target="_blank"><img src="https://img.shields.io/badge/Blog-c25980?style=flat&logo=Velog&logoColor=white"/></a>   
 
