@@ -21,7 +21,7 @@ Platforms & Languages
 
 <div>  
 <img src="https://img.shields.io/badge/React-0088CC?style=flat&logo=React&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-050505?style=flat&logo=Relay&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white" />
   
   <img src="https://img.shields.io/badge/Recoil-050505?style=flat&logo=Relay&logoColor=white" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white" />
