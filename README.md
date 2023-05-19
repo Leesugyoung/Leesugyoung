@@ -22,18 +22,20 @@ Platforms & Languages
 <div>  
 <img src="https://img.shields.io/badge/React-0088CC?style=flat&logo=React&logoColor=white" />
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white" />
-  
   <img src="https://img.shields.io/badge/Recoil-050505?style=flat&logo=Relay&logoColor=white" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" /></div>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" />
+  </div>
 
 
 #### 🛠️ Tools 🛠️
 <div> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
 <img src="https://img.shields.io/badge/Adobe Photoshop-1648c7?style=flat&logo=Adobe Photoshop&logoColor=white" />
-<img src="https://img.shields.io/badge/Notion-ffffff?style=flat&logo=Notion&logoColor=black" /></div>
+<img src="https://img.shields.io/badge/Notion-ffffff?style=flat&logo=Notion&logoColor=black" />
+  
+  
+  </div>
  
 #
   
