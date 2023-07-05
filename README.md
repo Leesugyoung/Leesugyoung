@@ -35,7 +35,7 @@ Platforms & Languages
   <img src="https://img.shields.io/badge/jira-0052CC?style=flat&logo=jira&logoColor=black" /></div>  
   
   <div>
-<img src="https://img.shields.io/badge/storyblok-09B3AF?style=flat&logo=storyblok&logoColor=black" />    
+<img src="https://img.shields.io/badge/jira-0052CC?style=flat&logo=jira&logoColor=black" /></div>  
 <img src="https://img.shields.io/badge/Adobe Photoshop-1648c7?style=flat&logo=Adobe Photoshop&logoColor=white" />
   
   
