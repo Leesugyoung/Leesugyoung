@@ -31,8 +31,7 @@ Platforms & Languages
 #### 🛠️ Tools 🛠️
 <div> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
-<img src="https://img.shields.io/badge/Notion-ffffff?style=flat&logo=Notion&logoColor=black" />
-  <img src="https://img.shields.io/badge/jira-0052CC?style=flat&logo=jira&logoColor=black" /></div>  
+<img src="https://img.shields.io/badge/Notion-ffffff?style=flat&logo=Notion&logoColor=black" /></div>  
   
   <div>
 <img src="https://img.shields.io/badge/jira-0052CC?style=flat&logo=jira&logoColor=black" /> 
