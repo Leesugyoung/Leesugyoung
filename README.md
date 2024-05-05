@@ -1,8 +1,3 @@
-<div align="center"> 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=11&height=150&section=header&fontSize=60&animation=fadeIn" />
-
-
-
 
 Hello 👋,   
 I am Frontend Engineer Su-gyoung Lee.   
