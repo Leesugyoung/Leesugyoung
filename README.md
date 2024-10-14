@@ -1,6 +1,6 @@
 
 Hello 👋,   
-I am Frontend Engineer Su-gyoung Lee.   
+I'm Su-gyoung Lee.   
   
 <a href="https://velog.io/@tnrud4685" target="_blank"><img src="https://img.shields.io/badge/Blog-c25980?style=flat&logo=Velog&logoColor=white"/></a>   
 
