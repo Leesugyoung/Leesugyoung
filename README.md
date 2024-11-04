@@ -17,7 +17,8 @@ Platforms & Languages
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white" />
 </div>
 <div>
-  <img src="https://img.shields.io/badge/mui-007FFF?style=flat&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/mui-007FFF?style=flat&logo=MUI&logoColor=white" />
+  <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat&logo=Tailwind&logoColor=white" />
 </div>
 
 
