@@ -6,8 +6,6 @@
 
 </div>
 
----
-
 ## 📚 Tech Stack
 
 ### Frontend
@@ -32,8 +30,6 @@
   <img src="https://img.shields.io/badge/Material--UI-007FFF?style=flat-square&logo=MUI&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
 </div>
-
----
 
 ## 🛠️ Tools & DevOps
 
