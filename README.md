@@ -1,7 +1,7 @@
 # Hello 👋, I'm Su-gyoung Lee
 
 <div>
-  
+
 [![Blog](https://img.shields.io/badge/Blog-c25980?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@tnrud4685)
 
 </div>
@@ -20,6 +20,7 @@
 <div>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white" />
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white" />
   <img src="https://img.shields.io/badge/TanStack Query-FF4154?style=flat-square&logo=ReactQuery&logoColor=white" />
 </div>
@@ -49,4 +50,6 @@
 ### DevOps
 <div>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 </div>
