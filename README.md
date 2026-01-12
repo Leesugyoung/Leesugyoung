@@ -2,7 +2,6 @@
 
 ## 🌐 Links
 [![Blog](https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@tnrud4685)
-[![Oncognier](https://img.shields.io/badge/Oncognier-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Oncognier)
 
 ## 📚 Tech Stack
 
